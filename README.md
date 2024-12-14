@@ -4,12 +4,13 @@ Device Doctor App is a cross-platform solution for electronic device repair and 
 
 Key Features
 
-##Repair Services:
+## Repair Services:
 
 - Secure booking for device repairs.
 - Real-time GPS tracking of technicians.
 - Service history records with before-and-after comparisons.
 - Seamless communication with technicians.
+
 
 
 ##Electronics Store:
@@ -18,16 +19,19 @@ Key Features
 - Filterable searches, secure checkout, and delivery options.
 
 
+
 ##User Engagement:
 
 - Loyalty rewards for frequent users.
 - Promotions, discounts, and personalized offers.
 
 
+
 ##Transparency and Support:
 
 - Clear legal policies, FAQ, and Help Center.
 - Feedback mechanisms for continuous improvement.
+
 
 
 
@@ -41,12 +45,14 @@ Key Features
 - Web
 
 
+
 ##Technologies Used
 
 ###Frontend: ReactJS + Vite
 ###Mobile: Android Studio, Xcode
 ###Desktop: Dist-Electron, Visual Studio Code
 ###Backend: Java
+
 
 ##Installation
 
