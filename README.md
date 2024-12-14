@@ -61,7 +61,7 @@ Key Features
 ## Installation
 
 ### 1. Clone the repository:
-> git clone https://github.com/<YourUsername>/DeviceDoctorApp.git
+> git clone https://github.com/HorizonHnk/DeviceDoctorApp.git
 
 
 ### 2. Navigate to the project directory:
