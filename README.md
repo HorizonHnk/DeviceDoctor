@@ -48,10 +48,14 @@ Key Features
 
 ## Technologies Used
 
-### Frontend: ReactJS + Vite
-### Mobile: Android Studio, Xcode
-### Desktop: Dist-Electron, Visual Studio Code
-### Backend: Java
+### Frontend: 
+> ReactJS + Vite
+### Mobile: 
+> Android Studio, Xcode
+### Desktop: 
+> Dist-Electron, Visual Studio Code
+### Backend: 
+> Java
 
 
 ## Installation
